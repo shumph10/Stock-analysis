@@ -1,6 +1,7 @@
 # Stock-analysis
 
 ##**Overview**
+
 Stock data was pulled for 2017 and 2018 and a macro was created to pull information for each stocks total volume, start and end prices, and returns. The code ran in .87 seconds. For larger projects with mass stocks over many years, this would take a fair amount of time. Thus the code needed to be refactored to be more effecient. Microsoft VBA was used in order to accomplish this task.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,3 +28,8 @@ The original VBA script was slower, and would not perform well with a larger dat
 
 ##**Challenges**
 I encountered many challenge throughout the refactoring process. I tried to get help in office hours, tutoring, and through askBCS and continued to get compile errors with my variables, especially when using tickerIndex. So, I ended up commenting the tickerIndex out or removing it later in the code because after hours of working with it I still could not get it to successfully run. My code still ended up being faster than the orignal, so I got to the goal through a different path. 
+
+##**Contact Me**
+
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
